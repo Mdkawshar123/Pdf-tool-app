@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">মাস্টার পিডিএফ টুল</string>
+    <string name="home_hero_title">আপনার সমস্ত পিডিএফ টুল এক জায়গায়</string>
+    <string name="home_hero_subtitle">সহজেই ডকুমেন্ট তৈরি, সম্পাদনা, রূপান্তর ও পরিচালনা করুন।</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">হোম</string>
+    <string name="nav_files">ফাইলসমূহ</string>
+    <string name="nav_history">ইতিহাস</string>
+    <string name="nav_settings">সেটিংস</string>
+    
+    <!-- Categories -->
+    <string name="category_popular">জনপ্রিয় টুলস</string>
+    <string name="category_convert">পিডিএফ কনভার্ট</string>
+    <string name="category_edit">সম্পাদনা ও টীকা</string>
+    <string name="category_organize">পিডিএফ গোছান</string>
+    
+    <!-- Tools -->
+    <string name="tool_merge">মার্জ পিডিএফ</string>
+    <string name="tool_merge_desc">একাধিক পিডিএফ একত্র করে একটি ফাইল তৈরি করুন</string>
+    <string name="tool_split">স্প্লিট পিডিএফ</string>
+    <string name="tool_split_desc">পিডিএফ পৃষ্ঠা আলাদা করুন বা অংশবিশেষ বের করুন</string>
+    <string name="tool_compress">কম্প্রেস পিডিএফ</string>
+    <string name="tool_compress_desc">মান ঠিক রেখে ফাইলের আকার হ্রাস করুন</string>
+    <string name="tool_word_to_pdf">ওয়ার্ড থেকে পিডিএফ</string>
+    <string name="tool_word_to_pdf_desc">DOC ও DOCX ফাইলকে পিডিএফে রূপান্তর করুন</string>
+    <string name="tool_ppt_to_pdf">পিপিটি থেকে পিডিএফ</string>
+    <string name="tool_ppt_to_pdf_desc">পাওয়ারপয়েন্ট স্লাইডকে পিডিএফে পরিণত করুন</string>
+    <string name="tool_excel_to_pdf">এক্সেল থেকে পিডিএফ</string>
+    <string name="tool_excel_to_pdf_desc">স্প্রেডশিটকে সুন্দর পিডিএফে রূপান্তর করুন</string>
+    <string name="tool_pdf_to_word">পিডিএফ থেকে ওয়ার্ড</string>
+    <string name="tool_pdf_to_word_desc">লেখা ও লেআউট ওয়ার্ড ডকুমেন্টে রূপান্তর করুন</string>
+    <string name="tool_pdf_to_ppt">পিডিএফ থেকে পিপিটি</string>
+    <string name="tool_pdf_to_ppt_desc">পিডিএফ পৃষ্ঠাগুলোকে স্লাইডে রূপান্তর করুন</string>
+    <string name="tool_pdf_to_excel">পিডিএফ থেকে এক্সেল</string>
+    <string name="tool_pdf_to_excel_desc">ছক ও টেবিল তথ্য স্প্রেডশিটে রূপান্তর করুন</string>
+    <string name="tool_edit_pdf">পিডিএফ এডিট</string>
+    <string name="tool_edit_pdf_desc">পৃষ্ঠায় আঁকাআঁকি, হাইলাইট ও স্বাক্ষর যোগ করুন</string>
+    <string name="tool_pdf_to_jpg">পিডিএফ থেকে জেপিজি</string>
+    <string name="tool_pdf_to_jpg_desc">পৃষ্ঠাগুলোকে উচ্চ মানের ছবি হিসেবে সংরক্ষণ করুন</string>
+    <string name="tool_image_to_pdf">ছবি থেকে পিডিএফ</string>
+    <string name="tool_image_to_pdf_desc">ছবি একত্র করে চমৎকার পিডিএফ তৈরি করুন</string>
+    <string name="tool_watermark">জলছাপ (ওয়াটারমার্ক)</string>
+    <string name="tool_watermark_desc">পৃষ্ঠায় টেক্সট বা ছবির ওয়াটারমার্ক যোগ করুন</string>
+    <string name="tool_page_numbers">পৃষ্ঠা নম্বর</string>
+    <string name="tool_page_numbers_desc">হেডার বা ফুটারে পৃষ্ঠা নম্বর যুক্ত করুন</string>
+    <string name="tool_rotate_pdf">পিডিএফ ঘোরান</string>
+    <string name="tool_rotate_pdf_desc">পৃষ্ঠা ৯০°, ১৮০° বা ২৭০° কোণে ঘোরান</string>
+    <string name="tool_viewer">পিডিএফ ভিউয়ার</string>
+    <string name="tool_viewer_desc">দ্রুত ও মসৃণ পিডিএফ পড়ার সুবিধা</string>
+    
+    <!-- Actions -->
+    <string name="action_select_files">ফাইল নির্বাচন করুন</string>
+    <string name="action_select_file">পিডিএফ ফাইল বাছুন</string>
+    <string name="action_select_images">ছবিগুলো নির্বাচন করুন</string>
+    <string name="action_add_more">আরও যোগ করুন</string>
+    <string name="action_process">প্রসেস শুরু করুন</string>
+    <string name="action_open">খুলুন</string>
+    <string name="action_share">শেয়ার করুন</string>
+    <string name="action_rename">নাম পরিবর্তন</string>
+    <string name="action_delete">মুছে ফেলুন</string>
+    <string name="action_done">সম্পন্ন</string>
+    <string name="action_cancel">বাতিল</string>
+    <string name="action_save">সংরক্ষণ করুন</string>
+    <string name="action_retry">পুনরায় চেষ্টা করুন</string>
+    <string name="action_choose_another">অন্য ফাইল বাছুন</string>
+    <string name="action_clear_all">সব মুছুন</string>
+    <string name="action_search">টুলস এবং ফাইল অনুসন্ধান করুন…</string>
+    <string name="action_favorite">প্রিয় তালিকায় রাখুন</string>
+    <string name="action_unfavorite">প্রিয় তালিকা থেকে সরান</string>
+    
+    <!-- History & Status -->
+    <string name="status_completed">সম্পন্ন হয়েছে</string>
+    <string name="status_failed">ব্যর্থ হয়েছে</string>
+    <string name="status_cancelled">বাতিল করা হয়েছে</string>
+    <string name="status_processing">পিডিএফ প্রসেসিং হচ্ছে…</string>
+    <string name="no_recent_files">এখনো কোনো সাম্প্রতিক ফাইল নেই</string>
+    <string name="no_history">ইতিহাস খালি</string>
+    <string name="no_favorites">কোনো প্রিয় ডকুমেন্ট নেই</string>
+    <string name="recent_files">সাম্প্রতিক ফাইলসমূহ</string>
+    <string name="favorites">প্রিয় ফাইলসমূহ</string>
+    
+    <!-- Operation Dialogs & Errors -->
+    <string name="msg_success_merge">পিডিএফ ফাইলগুলো সফলভাবে মার্জ করা হয়েছে!</string>
+    <string name="msg_success_split">পিডিএফ সফলভাবে ভাগ করা হয়েছে!</string>
+    <string name="msg_success_compress">পিডিএফ সফলভাবে কম্প্রেস করা হয়েছে!</string>
+    <string name="msg_success_convert">ডকুমেন্ট সফলভাবে রূপান্তর করা হয়েছে!</string>
+    <string name="msg_success_watermark">ওয়াটারমার্ক সফলভাবে প্রয়োগ করা হয়েছে!</string>
+    <string name="msg_success_page_numbers">পৃষ্ঠা নম্বর সফলভাবে যোগ করা হয়েছে!</string>
+    <string name="msg_success_rotate">পৃষ্ঠাগুলো সফলভাবে ঘোরানো হয়েছে!</string>
+    <string name="msg_success_image_to_pdf">ছবি থেকে পিডিএফ তৈরি হয়েছে!</string>
+    <string name="msg_success_pdf_to_jpg">পৃষ্ঠাগুলো জেপিজি হিসেবে এক্সপোর্ট হয়েছে!</string>
+    <string name="msg_success_edit">ডকুমেন্ট সফলভাবে সংরক্ষিত হয়েছে!</string>
+    <string name="error_generic">পিডিএফ প্রক্রিয়া করা যায়নি। ফাইলটি ক্ষতিগ্রস্ত বা পাসওয়ার্ডযুক্ত হতে পারে।</string>
+    <string name="error_file_read">নির্বাচিত ফাইলটি খোলা যায়নি।</string>
+    <string name="error_insufficient_pages">সঠিক পৃষ্ঠা নম্বর দিন বা অন্তত একটি পৃষ্ঠা নির্বাচন করুন।</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">সেটিংস</string>
+    <string name="settings_theme">থিম</string>
+    <string name="settings_theme_system">সিস্টেম ডিফল্ট</string>
+    <string name="settings_theme_light">লাইট মোড</string>
+    <string name="settings_theme_dark">ডার্ক মোড</string>
+    <string name="settings_language">ভাষা</string>
+    <string name="settings_compression_preset">কম্প্রেশনের মাত্রা</string>
+    <string name="settings_clear_history">ইতিহাস মুছুন</string>
+    <string name="settings_clear_temp">অস্থায়ী ফাইল মুছুন</string>
+    <string name="settings_temp_cleared">অস্থায়ী ফাইল পরিষ্কার করা হয়েছে</string>
+    <string name="settings_history_cleared">ইতিহাস মুছে ফেলা হয়েছে</string>
+    <string name="settings_privacy">গোপনীয়তা নীতি</string>
+    <string name="settings_terms">ব্যবহারের শর্তাবলি</string>
+    <string name="settings_faq">প্রশ্নোত্তর ও সহায়তা</string>
+    <string name="settings_about">মাস্টার পিডিএফ টুল পরিচিতি</string>
+    <string name="settings_feedback">মতামত দিন</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_title1">সব পিডিএফ টুল এক ছাতার নিচে</string>
+    <string name="onboarding_desc1">মার্জ, স্প্লিট, কম্প্রেস, এডিট এবং কনভার্ট করুন সহজে ও নির্ভুলভাবে।</string>
+    <string name="onboarding_title2">দ্রুত ও সহজ ডকুমেন্ট প্রসেসিং</string>
+    <string name="onboarding_desc2">উন্নত লোকাল প্রসেসিং ইঞ্জিনের মাধ্যমে কাজ করুন যেকোনো সময়।</string>
+    <string name="onboarding_title3">আপনার ফাইল থাকে পুরোপুরি নিরাপদ</string>
+    <string name="onboarding_desc3">অফলাইন-ফার্স্ট প্রযুক্তির কারণে আপনার ফাইল সবসময় আপনার ডিভাইসেই থাকে।</string>
+    <string name="onboarding_skip">এড়িয়ে যান</string>
+    <string name="onboarding_get_started">শুরু করুন</string>
+    
+    <!-- Ads -->
+    <string name="ad_sponsored">বিজ্ঞাপন</string>
+</resources>
